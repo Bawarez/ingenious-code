@@ -2,10 +2,9 @@ var
 a,b:integer;
 begin
 readln(a,b);
-writeln(a+b);
+writeln('a+b=',a+b);
+writeln('a-b=',a-b);
+w
+riteln()
+writeln('a/b=',a/b);
 end.
-xcvzcvzcvZv
-zvz
-xcv
-zxc
-vz
