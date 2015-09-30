@@ -4,3 +4,8 @@ begin
 readln(a,b);
 writeln(a+b);
 end.
+xcvzcvzcvZv
+zvz
+xcv
+zxc
+vz
